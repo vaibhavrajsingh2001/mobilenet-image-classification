@@ -28,22 +28,6 @@ body {
     background: linear-gradient(to top, #2F0743, #41295a);
 }
 
-#btn {
-    background: #333333;
-    color: #fff;
-    padding: 0.4rem 1.3rem;
-    font-size: 1rem;
-    border: none;
-    cursor: pointer;
-    margin-right: 0.5rem;
-    transition: opacity 0.2s ease-in;
-    outline: none;
-}
-
-#btn :hover {
-    opacity: 0.8;
-}
-
 @media (max-width: 700px) {
     .container {
         width: 70%;
